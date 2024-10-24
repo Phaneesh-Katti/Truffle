@@ -139,18 +139,5 @@ To run this project, ensure that you have the following software installed:
 
 ---
 
-### Author:
-- [Your Name]
-- [Contact Information]
 
----
-
-This README serves as a guide to understanding the purpose of the project, running the tests and scripts, and interpreting the results. For more information, refer to the test files and scripts provided in the project.
-
----
-
-### Submission Notes:
-
-- **Screenshots**: Include relevant screenshots from the `callTests_output.txt`, `pensionFundTests_output.txt`, and `estimateGas_output.txt` files in the assignment submission.
-- **Output Files**: Attach the output files directly if required for submission.
 
