@@ -51,8 +51,8 @@ To run this project, ensure that you have the following software installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/Phaneesh-Katti/Truffle.git
+   cd Truffle
    ```
 
 2. **Install Dependencies**:
