@@ -1,0 +1,770 @@
+root@LAPTOP-3QURC2N7:~# ganache-cli --port 9545
+Ganache CLI v6.12.2 (ganache-core: 2.13.2)
+
+Available Accounts
+==================
+(0) 0x41bD504633B4b0EBeeCa624C54835DbC385bb5eE (100 ETH)
+(1) 0x0d5F978Eba5F82dF498545ACcDCB980bE816ef24 (100 ETH)
+(2) 0xdb27ce256d9d4eeaF1E697CCbbaa2723fD304faA (100 ETH)
+(3) 0xd08Ce936159825C098Fbf09542Fd3ED712cd69f2 (100 ETH)
+(4) 0xb753ce742665397D3119BDDe0EE1D11cB66b825d (100 ETH)
+(5) 0x3Dd3c467d12c9F251408c34679E18482B7787Da3 (100 ETH)
+(6) 0x35B446F1e7801Cd3AC3c6a666a972B7ff8C1F9d5 (100 ETH)
+(7) 0xe5359f13D4C0552D336Da5338Ab452C5A086cbC4 (100 ETH)
+(8) 0x4A0b18cb7005678A9239546bEF8C2aE593EcB464 (100 ETH)
+(9) 0x246d3e4Dc4261DFA07e7B8B28B3f74f2021971e2 (100 ETH)
+
+Private Keys
+==================
+(0) 0x04998223cb28a18091ca1cf6f96cbb5b28c6547ec74b24166c606982924ec948
+(1) 0x4a150ccdf9c920504acb1ed30de86fae205844c5dac245d307e8068fbea77b0a
+(2) 0x191d795e299d113aa5f5949699f025f7958add9b22e0823c4a220868e2d160b0
+(3) 0x10ffe85a2055bb603f5fb5aaef2307579200780e9cb82fab922aeb8f62f5b282
+(4) 0x5f0cc651035b9fdf216af3960bb0dedc4a7c2c7203d35610ad5c3ac27f01d5a2
+(5) 0xb9e8b2b09f640c0bdd7bc0359573856dd5674d063115cbf46af29e09c9583e82
+(6) 0x3bb7d02bb88613ff95d43704b2ce9aad0c092358411e715e3547a512e790e051
+(7) 0xacd4d8394746c92253b24b33e7c8500710c00eb1982227aca62429618ffd1e80
+(8) 0x83b2fc216e5f58d4d34e7697277c4bea1aecc23730568851fabe6cc5e0863e65
+(9) 0xab38713df4e64462d57d3f42ba780a44528bc398d2871d909a07a1b45213c361
+
+HD Wallet
+==================
+Mnemonic:      giggle inherit beauty merit metal night hood special cage casual flip wear
+Base HD Path:  m/44'/60'/0'/0/{account_index}
+
+Gas Price
+==================
+20000000000
+
+Gas Limit
+==================
+6721975
+
+Call Gas Limit
+==================
+9007199254740991
+
+Listening on 127.0.0.1:9545
+eth_blockNumber
+net_version
+eth_accounts
+eth_blockNumber
+net_version
+eth_accounts
+eth_getBlockByNumber
+eth_accounts
+net_version
+eth_getBlockByNumber
+eth_getBlockByNumber
+net_version
+eth_getBlockByNumber
+eth_estimateGas
+net_version
+eth_blockNumber
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0xb4a9d04c207a68a8e6b08960b8b6af471a97b3221e5df1e6c68e1b958dcf9543
+  Contract created: 0x36367d4f6ef23e308d70f7f1a54dbd225956d020
+  Gas usage: 326789
+  Block Number: 1
+  Block Time: Thu Oct 24 2024 18:23:55 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_getCode
+eth_getBlockByNumber
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0x76e893265417dfe2b7be1aed4a80af7b78a436a0e9c8038bbb85f279e483167f
+  Gas usage: 42535
+  Block Number: 2
+  Block Time: Thu Oct 24 2024 18:23:55 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_getBlockByNumber
+eth_accounts
+net_version
+eth_getBlockByNumber
+eth_getBlockByNumber
+net_version
+eth_getBlockByNumber
+eth_estimateGas
+net_version
+eth_blockNumber
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0x591a18ab013e012c61f58ed2f9bf78e8b0d9187d690f560719cea893269ee54e
+  Contract created: 0x236642e0e57ee1c6194bb5a6f12755112e863f23
+  Gas usage: 425574
+  Block Number: 3
+  Block Time: Thu Oct 24 2024 18:23:55 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_getCode
+net_version
+eth_getBlockByNumber
+eth_getBlockByNumber
+net_version
+eth_getBlockByNumber
+eth_estimateGas
+net_version
+eth_blockNumber
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0xbc1602f927ce493067f7d9d73384f1da252e414267c56a88e5c996cb82436b33
+  Contract created: 0x18c0813d030f3bb4bb7734be76ef3737f5b3e0e5
+  Gas usage: 235574
+  Block Number: 4
+  Block Time: Thu Oct 24 2024 18:23:55 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_getCode
+net_version
+eth_getBlockByNumber
+eth_getBlockByNumber
+net_version
+eth_getBlockByNumber
+eth_estimateGas
+net_version
+eth_blockNumber
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0x985f7d4ec3277a536f0603d7982c2aa51b760234cc95ae0b3f7a267207e352dc
+  Contract created: 0xf9b928c9e1e41f205f631a72d4ef29865ebf9005
+  Gas usage: 570115
+  Block Number: 5
+  Block Time: Thu Oct 24 2024 18:23:55 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_getCode
+eth_getBlockByNumber
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0x95969c123b6eff16b3f432a755111be5de6787da66946f918edd7a27da771cf8
+  Gas usage: 27535
+  Block Number: 6
+  Block Time: Thu Oct 24 2024 18:23:55 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+evm_snapshot
+Saved snapshot #1
+net_version
+eth_getBlockByNumber
+eth_getBlockByNumber
+eth_blockNumber
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0x2e5909774eaf0f324a80edd6ba7cb95c712b506a8560a5614faa94c614ab1aae
+  Gas usage: 106868
+  Block Number: 7
+  Block Time: Thu Oct 24 2024 18:23:56 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_call
+eth_call
+eth_call
+eth_call
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0xbdf328a91655ddf9bb41b46c2c4c50de1ae9d5b0cd410d9cd0b80ebb3cd52a82
+  Gas usage: 106777
+  Block Number: 8
+  Block Time: Thu Oct 24 2024 18:23:56 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_call
+eth_call
+eth_call
+eth_call
+eth_getBlockByNumber
+eth_getBlockByNumber
+eth_blockNumber
+net_version
+eth_accounts
+eth_blockNumber
+net_version
+eth_accounts
+eth_getBlockByNumber
+eth_accounts
+net_version
+eth_getBlockByNumber
+eth_getBlockByNumber
+net_version
+eth_getBlockByNumber
+eth_estimateGas
+net_version
+eth_blockNumber
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0x771df9157190532a4d442b565b5ef7eb71b3b1cc426e2801c6ee966a64f25e61
+  Contract created: 0x38b4a11d4be03f0cbc1bd878531aac32ed64d9c5
+  Gas usage: 326789
+  Block Number: 9
+  Block Time: Thu Oct 24 2024 18:30:05 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_getCode
+eth_getBlockByNumber
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0xa09dce97bf4ca998e2910f5d0672a2b9680ace89d4b3506be89291a9d863be13
+  Gas usage: 42535
+  Block Number: 10
+  Block Time: Thu Oct 24 2024 18:30:05 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_getBlockByNumber
+eth_accounts
+net_version
+eth_getBlockByNumber
+eth_getBlockByNumber
+net_version
+eth_getBlockByNumber
+eth_estimateGas
+net_version
+eth_blockNumber
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0xab39da202bca66530106efb3ad3f332737fa0626f9dd037a6fa88e89c3516b0d
+  Contract created: 0x0e08cfcb52219e9e13e35cc6c9ca1e4cdc84709d
+  Gas usage: 425574
+  Block Number: 11
+  Block Time: Thu Oct 24 2024 18:30:05 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_getCode
+net_version
+eth_getBlockByNumber
+eth_getBlockByNumber
+net_version
+eth_getBlockByNumber
+eth_estimateGas
+net_version
+eth_blockNumber
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0x532ca718f54a6c2ba91bbfee19e2df06e409bf8466d23e9637f6501ebe226ee2
+  Contract created: 0xde2ea3cbf8b2b6a9ad4f08f11152d95f1b1662a9
+  Gas usage: 235574
+  Block Number: 12
+  Block Time: Thu Oct 24 2024 18:30:05 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_getCode
+net_version
+eth_getBlockByNumber
+eth_getBlockByNumber
+net_version
+eth_getBlockByNumber
+eth_estimateGas
+net_version
+eth_blockNumber
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0x748795c80908c9a13cd8c2d6eb13564f416dcdc148646d199fa364128409df39
+  Contract created: 0x3931ea0b4cd5263c6618b02481dadc3427e7a70e
+  Gas usage: 570115
+  Block Number: 13
+  Block Time: Thu Oct 24 2024 18:30:06 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_getCode
+eth_getBlockByNumber
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0x715c6a3fe4e98d644c5ad1b454e329b3e3460baea178a70b807e95243f34b52f
+  Gas usage: 27535
+  Block Number: 14
+  Block Time: Thu Oct 24 2024 18:30:06 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_getBlockByNumber
+eth_getBlockByNumber
+evm_snapshot
+eth_getBlockByNumber
+Saved snapshot #2
+eth_getBlockByNumber
+net_version
+eth_blockNumber
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_getBlockByNumber
+eth_gasPrice
+eth_getBlockByNumber
+eth_sendTransaction
+
+  Transaction: 0x2834010026adea65324cdf25e5cff66b5bc7e8ad20cc664ddd0c83c924ad45b5
+  Contract created: 0x8bb9ad1460d225a6bd78b757f2d9f7e1812ea896
+  Gas usage: 570115
+  Block Number: 15
+  Block Time: Thu Oct 24 2024 18:30:06 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_getCode
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+eth_getBlockByNumber
+
+  Transaction: 0x3fa9ae069944f7738d1b78d3004eff7a8fb978aa19b295d28db74111d356cc13
+  Gas usage: 43821
+  Block Number: 16
+  Block Time: Thu Oct 24 2024 18:30:06 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_getBlockByNumber
+eth_call
+eth_blockNumber
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0xce0e1087af6287f56b9c1554c9cc5c355d1d1cd1e1a5adb170a910f8c3dc53f2
+  Contract created: 0x5c1b32767ff09a06cb46a33e06eeff63698e4393
+  Gas usage: 570115
+  Block Number: 17
+  Block Time: Thu Oct 24 2024 18:30:07 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_getCode
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_getBlockByNumber
+eth_gasPrice
+eth_getBlockByNumber
+eth_sendTransaction
+
+  Transaction: 0xf7ba0c2acf6d07606b373a74cf9b9da58bd87933a2ebbe1db877e440df03951d
+  Gas usage: 43821
+  Block Number: 18
+  Block Time: Thu Oct 24 2024 18:30:07 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_blockNumber
+eth_getBlockByNumber
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0x778b030eeff30894541baab304a67a9d10438f58fd781f3781e46c80ba486e24
+  Contract created: 0xaa27128c2a0483d0528bdda47c80f59212634534
+  Gas usage: 570115
+  Block Number: 19
+  Block Time: Thu Oct 24 2024 18:30:07 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_getCode
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0x72200b65defc5b54edb1ba7da8d74603ebda5c176b57a68825e30a10f6d11a30
+  Gas usage: 43821
+  Block Number: 20
+  Block Time: Thu Oct 24 2024 18:30:07 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+evm_increaseTime
+evm_mine
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0x1ccf83de55c3cd5b7634d35a77c214692d9f99fe62c4d0cff2a2e6aba049e117
+  Gas usage: 26175
+  Block Number: 22
+  Block Time: Thu Oct 24 2024 18:30:28 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_call
+eth_blockNumber
+net_version
+eth_accounts
+eth_accounts
+net_version
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0xee79c5faff668c816ca99680a70604bfd61aea03dca85b525ed1d9b2b126c465
+  Contract created: 0x3575cd4bb54620aa6083e9ce1ef306b1fb436145
+  Gas usage: 570115
+  Block Number: 23
+  Block Time: Thu Oct 24 2024 18:51:52 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_getCode
+net_version
+eth_getBlockByNumber
+eth_estimateGas
+net_version
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0x067566620d75757e8d268fa0fbece402b58c0895168ad699a74cf3da2ddc5fb2
+  Gas usage: 43821
+  Block Number: 24
+  Block Time: Thu Oct 24 2024 18:51:52 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+net_version
+eth_getBlockByNumber
+eth_estimateGas
+evm_increaseTime
+evm_mine
+net_version
+eth_getBlockByNumber
+eth_estimateGas
+eth_blockNumber
+net_version
+eth_accounts
+eth_blockNumber
+net_version
+eth_accounts
+eth_getBlockByNumber
+eth_accounts
+net_version
+eth_getBlockByNumber
+eth_getBlockByNumber
+net_version
+eth_getBlockByNumber
+eth_estimateGas
+net_version
+eth_blockNumber
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0xe3a2e2689464b379931f67bf64d1d80f781a057d33b5072dd8f818b90d353b17
+  Contract created: 0x15ab8e3447f793871346334b418b2619b791b49b
+  Gas usage: 326789
+  Block Number: 26
+  Block Time: Thu Oct 24 2024 18:54:08 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_getCode
+eth_getBlockByNumber
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0xaa3994857c253a3a967140561f48f8d5b0e1323ba97263302d96bcde77d70ffc
+  Gas usage: 42535
+  Block Number: 27
+  Block Time: Thu Oct 24 2024 18:54:09 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_getBlockByNumber
+eth_accounts
+net_version
+eth_getBlockByNumber
+eth_getBlockByNumber
+net_version
+eth_getBlockByNumber
+eth_estimateGas
+net_version
+eth_blockNumber
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0x6a837cd2bf66ea1265d603bed3be7e8c21a2966d1e34ace4664bac9d83f92983
+  Contract created: 0x882973c86a6a66b14e1cd5937a37284bf56c6175
+  Gas usage: 425574
+  Block Number: 28
+  Block Time: Thu Oct 24 2024 18:54:09 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_getCode
+net_version
+eth_getBlockByNumber
+eth_getBlockByNumber
+net_version
+eth_getBlockByNumber
+eth_estimateGas
+net_version
+eth_blockNumber
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0x6ed44c9d24fcd8c02a462459b51ecbb20a2a944f3dac1006449906347d61c6cc
+  Contract created: 0x740e167c33baeb0d72eb87da5afc3d113a9592d3
+  Gas usage: 235574
+  Block Number: 29
+  Block Time: Thu Oct 24 2024 18:54:09 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_getCode
+net_version
+eth_getBlockByNumber
+eth_getBlockByNumber
+net_version
+eth_getBlockByNumber
+eth_estimateGas
+net_version
+eth_blockNumber
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0x2c0c61ea85ed9621e2087be478c0442611c2edf118609a885b9364ff467669d6
+  Contract created: 0x550aee3e65b441f8f464a164c77adc2471911e7c
+  Gas usage: 570115
+  Block Number: 30
+  Block Time: Thu Oct 24 2024 18:54:09 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_getCode
+eth_getBlockByNumber
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0x61493ef5026eb5fc09ad8b089bfbec63ae15bf0c3fbc54fc5d2a13747ee2aca6
+  Gas usage: 27535
+  Block Number: 31
+  Block Time: Thu Oct 24 2024 18:54:09 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_getBlockByNumber
+eth_getBlockByNumber
+eth_getBlockByNumber
+eth_getBlockByNumber
+evm_snapshot
+Saved snapshot #3
+net_version
+eth_getBlockByNumber
+eth_getBlockByNumber
+eth_blockNumber
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_getBlockByNumber
+eth_sendTransaction
+eth_getBlockByNumber
+
+  Transaction: 0xafe77e91833d87d9849dfa863f805036e6a638bb3fecf8112a6af3beac6462b1
+  Gas usage: 106868
+  Block Number: 32
+  Block Time: Thu Oct 24 2024 18:54:10 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_call
+eth_call
+eth_call
+eth_call
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_getBlockByNumber
+eth_gasPrice
+eth_getBlockByNumber
+eth_sendTransaction
+
+  Transaction: 0x18612362661483855d5e5a77860c381917c50539cbf3996a3b3e06f5cb4a8f0b
+  Gas usage: 106777
+  Block Number: 33
+  Block Time: Thu Oct 24 2024 18:54:10 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_call
+eth_call
+eth_call
+eth_call
+evm_revert
+Reverting to snapshot #3
+evm_snapshot
+Saved snapshot #3
+net_version
+eth_getBlockByNumber
+eth_blockNumber
+eth_getBlockByNumber
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0x6f3983636d24460a75774ed6bb519aa382acd62e050bddfefbb785842c0869d3
+  Contract created: 0xc44d1eb90529d485682d0134d58e16f23204a93e
+  Gas usage: 570115
+  Block Number: 32
+  Block Time: Thu Oct 24 2024 18:54:10 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_getCode
+eth_getBlockByNumber
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0x417875de4b5a0c0231dcf713b4be4198f2d195e966fd7748041cddd65c654c0f
+  Gas usage: 43821
+  Block Number: 33
+  Block Time: Thu Oct 24 2024 18:54:10 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_call
+eth_blockNumber
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0xd5a476f94199376f417f3eac34740e3dd46d5bdab168e8ffdcce9e11e937839a
+  Contract created: 0x22b72f24e00a5fa599db1a4cd932c2070fda18f3
+  Gas usage: 570115
+  Block Number: 34
+  Block Time: Thu Oct 24 2024 18:54:10 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_getCode
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0x740c25eeeeb00768d7f52a713f96c9babec44145534588a951775ed443898ff8
+  Gas usage: 43821
+  Block Number: 35
+  Block Time: Thu Oct 24 2024 18:54:10 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_getBlockByNumber
+eth_estimateGas
+eth_blockNumber
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0x2ee028efd99cca0c764b596464a3df775651d6ee43fe2f3526741541166e5673
+  Contract created: 0xb7d9e6985d5fbac116140f34bb727521767bfbab
+  Gas usage: 570115
+  Block Number: 36
+  Block Time: Thu Oct 24 2024 18:54:10 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_getCode
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0x146355f8be7f50130575526db03bd0b0b253aa558cb310f0ea34953521e071c8
+  Gas usage: 43821
+  Block Number: 37
+  Block Time: Thu Oct 24 2024 18:54:10 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+evm_increaseTime
+evm_mine
+eth_getBlockByNumber
+eth_estimateGas
+eth_getBlockByNumber
+eth_gasPrice
+eth_sendTransaction
+
+  Transaction: 0x283e0f8e420df6e84d09c807f2fb0ce24e02db9a366f5083555c5eda6e081f8f
+  Gas usage: 26175
+  Block Number: 39
+  Block Time: Thu Oct 24 2024 18:54:31 GMT+0530 (India Standard Time)
+
+eth_getTransactionReceipt
+eth_call

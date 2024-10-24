@@ -1,0 +1,26 @@
+Using network 'development'.
+
+
+Compiling your contracts...
+===========================
+> Everything is up to date, there is nothing to compile.
+
+[0m[0m
+[0m  Contract: Call vs DelegateCall Test[0m
+
+After regular call:
+Receiver sender: 0xB577EfCd9215293f4F7BfE383fEFa82C596f7655
+Receiver origin: 0x4b4010a309462283F56338F5ef224d8413A92180
+Receiver from: 0xaed86A3bD0F51B5914b906ff7b0c03127bEbe5CE
+Receiver value: 100
+
+After delegatecall:
+Caller sender: 0x4b4010a309462283F56338F5ef224d8413A92180
+Caller origin: 0x4b4010a309462283F56338F5ef224d8413A92180
+Caller from: 0xB577EfCd9215293f4F7BfE383fEFa82C596f7655
+Caller value: 100
+  [32m  ✔[0m[90m should demonstrate different behavior between call and delegatecall[0m[31m (318ms)[0m
+
+
+[92m [0m[32m 1 passing[0m[90m (380ms)[0m
+
